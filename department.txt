@@ -1,0 +1,5 @@
+NO|NAME|DETAILS
+1|Developer|Develop software and Applications
+2|Tester|Testing the software
+3|Hr|To maintain the employees
+4|CEO|Founder of Company
